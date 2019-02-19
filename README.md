@@ -1,4 +1,4 @@
-# satellite_storage - configures storage for Satellite Server or Satellite Capsule
+# satellite_storage - configures storage for Satellite Server
 
 ## Synopsis
 An Ansible role for configuring logical volumes and mount points for Satellite Server(s)
